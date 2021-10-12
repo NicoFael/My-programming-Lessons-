@@ -8,7 +8,7 @@ int main (void)
     printf("\n");
     printf("1. Janeiro \n");
     printf("2. Fevereiro \n");
-    printf("3. Março \n");
+    printf("3. MarÃ§o \n");
     printf("4. Abril \n");
     printf("5. Marco \n");
     printf("6. Junho \n");
