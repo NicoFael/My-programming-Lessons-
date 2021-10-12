@@ -1,4 +1,4 @@
-//calcula consumo médio de combustível por km.
+//calcula consumo mÃ©dio de combustÃ­vel por km.
 #include <stdio.h>
 
 int main(void){
